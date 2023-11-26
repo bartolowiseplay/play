@@ -1,0 +1,100 @@
+{
+   "name":"TOROS",
+   "author":"Bartolo",
+   "image":"https://i.imgur.com/RZuPfC0.png",
+   "url":"https://bartolo.vercel.app/bartolotoros.w3u",
+   "info":"",
+   "groups":[ {
+			"name": "Toros 1",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
+			"referer": "https://www.freeshot.live/",
+                        "isHost": "true"
+                     },{
+			"name": "Toros 2",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+          "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=702O2ES",
+		"referer": "https://www.freeshot.live/",
+                        "isHost": "true"
+			}, {
+			"name": "Toros-Telemadrid",
+			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
+			"userAgent": "" 
+         },{
+"name": "El Toro TV HD",
+"image": "https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",
+"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336207",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "One Toro 1",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://zona593ec.online:8080/Jhontv/Jhon20231@/544556"
+},
+{
+"name": "One Toro 2",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://zona593ec.online:8080/Jhontv/Jhon20231@/544557"
+},
+{
+"name": "One Toro 3",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://zona593ec.online:8080/Jhontv/Jhon20231@/565973"
+},
+{
+"name": "One Toro 4",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/440715",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "One Toro 5",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/440715",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Torolé TV",
+"image": "https://i.postimg.cc/W32fCbVS/Imagen-Web-P.webp",
+"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/443089",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Mundo Toro HD",
+"image": "https://i.postimg.cc/nLD6SgZG/mundotoro-logo.webp",
+"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Mundo Toro (Acestream)",
+"info": "",
+"image": "https://i.postimg.cc/nLD6SgZG/mundotoro-logo.webp",
+"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef"
+},
+{
+"name": "One toro (Acestream)",
+"info": "",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef"
+},
+{
+"name": "Castilla La Mancha",
+"image": "https://graph.facebook.com/CMMediaes/picture?width=200&height=200",
+"url": "http://aflaxtv.xyz:8080/3f6d5b2f/4b60123137/169000",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Canal Sur",
+"image": "https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",
+"url": "http://flashprinttv.com:2086/bKjveTMkVcK7/zyV2kbk75zb4/336185",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Canal Sur 2",
+"image": "https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200",
+"url": "http://zona593ec.online:8080/Jhontv/Jhon20231@/544294",
+"userAgent":"PlusMediaPlayer/0.0.9"
+}]
+}
+

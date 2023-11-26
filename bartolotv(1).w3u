@@ -1,0 +1,113 @@
+{
+  "name": "TV",
+  "author": "BARTOLO",
+  "image": "https://i.imgur.com/L5RUMsy.png",
+  "url": "https://bartolo.vercel.app/bartolotv.w3u",
+  "info": "Canales Oficiales Gratuitos y 100% Legales",
+  "groups": [
+    {
+      "name": "TDTChannels - LaQuay",
+      "image": "https://pbs.twimg.com/profile_images/1247827338173108224/WfwOfmX4_400x400.jpg",
+      "url": "https://www.tdtchannels.com/lists/tvradio.w3u"
+    },
+    {
+      "name": "Pluto TV - HL",
+      "image": "https://helmerluzo.github.io/PlutoTV_HL/icons/pluto.png",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u"
+    },
+    {
+      "name": "Runtime TV - HL",
+      "image": "https://helmerluzo.github.io/RuntimeTV_HL/runtime.png",
+      "url": "https://helmerluzo.github.io/RuntimeTV_HL/tv/w3u/RuntimeTV_tv.w3u"
+    },
+    {
+      "name": "Samsung TV Plus - MJH",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://megalistawiseplay.vercel.app/megalista_tv/samsungtvplus.w3u"
+    }, 
+    {
+      "name": "Rakuten TV - HL",
+      "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
+      "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
+    },
+   {
+"name": "TV INFANTIL",
+"image": "https://i.blogs.es/dae294/cadenas-20infantiles/1366_2000.jpg",
+"online":"true",
+"url": "https://raw.githubusercontent.com/tirimosqui2/varios/main/tvinfantil.m3u#.m3u",
+"isHost": true,
+"import":"true"
+},
+{
+      "name": "TV Música",
+"image": "https://cdn-icons-png.flaticon.com/512/5662/5662059.png",
+"imageScale": "",
+"stations":[{
+"name": "MusicTop",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "Today Latin Pop",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://ott-linear-channels.stingray.com/hls/index/190.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "v2beat",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "https://abr.de1se01.v2beat.live/playlist.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "muzzik-live",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://muzzik-live.morescreens.com/mts-a4/playlist.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "PopTV",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://ott-linear-channels.stingray.com/hls/index/104.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "Hit List",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://ott-linear-channels.stingray.com/hls/index/107.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "Activa TV",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "Play TV",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://web.onair-radio.eu:1935/Alpha-Host/Alpha-Host/playlist.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "Portalfoxmix TV",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8",
+"userAgent": "http-reconnect=true" 
+},
+{
+      "name": "Activa TV",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "https://streamtv.mediasector.es/hls/activatv/.m3u8",
+"userAgent": "http-reconnect=true"  
+},
+{
+      "name": "MolaTV",
+"image": "https://logos.flamingtext.com/Word-Logos/m%C3%BAsica-design-power-name.gif",
+"url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
+"userAgent": "http-reconnect=true"
+    }] 
+  }]
+}
+  
