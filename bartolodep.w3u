@@ -25,5 +25,10 @@
           "url": "https://pastebin.com/36jGppfm",
           "info":"bY. lUCas",
           "import": false
-          }]
+          },{
+          "name": "MEGA SPORT TV (VPN) | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://megalistawiseplay.vercel.app/megasport.w3u",
+          "import": true
+        }]
 }
