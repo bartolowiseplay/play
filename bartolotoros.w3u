@@ -30,7 +30,7 @@
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
         "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
-                        "isHost": "true"
+                        "UserAgent": ""
                                }]
 		}]
 }
