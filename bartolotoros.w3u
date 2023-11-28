@@ -10,6 +10,23 @@
          "url": "https://pastebin.com/GEAQgN3j",
          "info":"",
          "import": true
-        }]
+        },{
+			 "name": "Toros 2",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
+			"referer": "https://www.freeshot.live/",
+                        "isHost": "true"
+       }, {
+			"name": "Toros 3",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+          "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=702O2ES",
+		"referer": "https://www.freeshot.live/",
+                        "isHost": "true"
+			}, {
+			"name": "Toros-Telemadrid",
+			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
+        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
+			"userAgent": "" 
+         }]
 }
 
