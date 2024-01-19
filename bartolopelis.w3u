@@ -192,6 +192,7 @@
 "isHost": false,
 "import":"false"},
 ]},
+
 {"name": "SERIES PEQUES ONLINE",
 "image": "https://www.hola.com/imagenes//ninos/2011012650847/peliculas/infantiles/familia/0-168-834/ninos-pelis-01-z.jpg",
 "stations":[
@@ -260,9 +261,10 @@
 "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/dibus-peli.jpg",
 "url": "https://www.dailymotion.com/embed/video/x3lkeab",
 "embed": "true"
-         }
-     ]
-  }]
+           }
+       ]
+     }
+  ]
 }
 
 
