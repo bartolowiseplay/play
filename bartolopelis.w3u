@@ -10,17 +10,23 @@
          "image":"https://i.imgur.com/73g17x0.jpg",
          "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
       },
+            {
+               "name":"💢 TIRISTAR VALORES 💢 | Añadir Lista ",
+               "image":"https://i.imgur.com/YAaMwxN.png",
+               "url":"https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
+            }, 
       {
-         "name":"💢 TIRISTAR JUV 💢",
-         "image":"https://github.com/tirimosqui2/varios/raw/main/logo%20tiri.mp4",
-         "url":"https://raw.githubusercontent.com/tirimosqui2/mlpla/main/LATIRI_STAR.w3u"
-      },
+               "name":"💢 TIRISTAR JUVENIL 💢 | Añadir Lista ",
+               "image":"https://i.imgur.com/YAaMwxN.png",
+               "url":"https://github.com/tirimosqui2/varios/raw/main/TIRI_vod.json",
+     },     
       {
          "name": "🆃🅷🅴 🅼🅾🆅🅸🅴🆂",
          "image": "https://i.postimg.cc/g2m00TYr/movies-new.png",
          "url": "https://pastebin.com/iSewmnre",
          "import": false
-      },{
+      },
+      {
          "name": "🆂🅔🆁🅘🅔🆂",
          "image": "https://i.postimg.cc/fTKYXW1M/series-new.png",
          "url": "https://pastebin.com/5bj36DNe",
