@@ -5,21 +5,28 @@
    "url":"https://bartolo.vercel.app/bartolopelis.w3u",
    "info":"PELICULAS Y SERIES BARTOLO",
    "groups":[
-{
+        {
          "name":"CHUKY-CINE Y SERIES",
          "image":"https://i.imgur.com/73g17x0.jpg",
          "url":"https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
       },
+      {
+         "name":"💢 TIRISTAR VOD 💢",
+         "image":"https://i.imgur.com/YAaMwxN.png",
+         "stations":[
             {
-               "name":"💢 TIRISTAR VALORES 💢 | Añadir Lista ",
+               "name":"💢 TIRISTAR VALORES 💢",
                "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://raw.githubusercontent.com/tirimosqui2/cinetiriList/main/cinevalores.w3u",
+               "import":"true"
             }, 
-      {
-               "name":"💢 TIRISTAR JUVENIL 💢 | Añadir Lista ",
+            {
+               "name":"💢 TIRISTAR JUVENIL 💢",
                "image":"https://i.imgur.com/YAaMwxN.png",
                "url":"https://github.com/tirimosqui2/varios/raw/main/TIRI_vod.json",
-     },     
+               "import":"true"
+            }         
+         ]  
       {
          "name": "🆃🅷🅴 🅼🅾🆅🅸🅴🆂",
          "image": "https://i.postimg.cc/g2m00TYr/movies-new.png",
@@ -36,7 +43,7 @@
          "image": "https://i.postimg.cc/9Fh26Dc7/Anime-new.png",
          "url": "https://pastebin.com/TGBCtb4P",
          "import": false
-        },
+        }
 {
    "name": "SERIES-JUVENIL",
 "image": "https://logos.flamingtext.com/Word-Logos/series-design-stripes-name.gif",
