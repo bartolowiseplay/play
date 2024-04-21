@@ -5,33 +5,79 @@
    "url":"https://bartolo.vercel.app/bartolotoros.w3u",
    "info":"",
    "groups":[{
-         "name": "Toros 1",
-         "image": "https://i.postimg.cc/6QnbzTm0/toros-new.png",
-         "url": "https://pastebin.com/GEAQgN3j",
-         "info":"",
-         "import": true
-        },{
-		"name": "Toros 2",
+		"name": "Todo Toros ",
 		"image": "https://i.pinimg.com/736x/a2/32/ea/a232eabbdb20d0a52ff5a534e5e0929e.jpg",
 		"info": "",
 		"stations": [{
 			 "name": "Toros 1",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=MNDT020",
-			"referer": "https://www.freeshot.live/",
-                        "isHost": "true"
-                     }, {
-			"name": "Toros 2",
+      "url": "http://coconut23.chocoplus.xyz:8080/live/HSzWFMSgHbGQ/jpsP8HErkd5Z/12113.ts",
+                        "userAgent": ""
+                                            }, {
+			 "name": "Toros 2",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-          "url": "https://lovesomecommunity.com/embedcr.php?player=desktop&live=702O2ES",
-		"referer": "https://www.freeshot.live/",
-                        "isHost": "true"
+         "url" : "https://love2live.wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=019beafa857c6572ccbbc9ceacfd17aabf0c0ca5-caf27ac2220ac7193fb05bc81a42b676-1713473600-1713462800",
+			 "userAgent":"" 
+                          }, {
+			 "name": "Toros 3",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://cajablanca.dedyn.io/mionespt/juanorange/MundotoroTV_HD/HD/index.m3u8",
+                        "userAgent": ""
+                       }, {
+			"name": "Torolé",
+			"image": "https://cultoro.es/wp-content/uploads/2023/04/Logo-Torole.jpg",
+         "url" : "https://media1.ultrik.com/live/torole1.m3u8",
+			 "userAgent":""  
 			}, {
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
-        "url": "https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8",
-                        "UserAgent": ""
-                               }]
+        "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+			"userAgent": "" 
+                        },{
+"name": "El Toro TV HD",
+"image": "https://graph.facebook.com/eltorotv.es/picture?width=200&height=200",
+"url": "http://31.42.185.216:8000/LIRestream/C18FXWEJBF/150486",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "One Toro 1 FHD",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://31.42.185.216:8000/LIRestream/C18FXWEJBF/4362"
+},
+{
+"name": "One Toro 2",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://31.42.185.216:8000/LIRestream/C18FXWEJBF/126479"
+},
+{
+"name": "One Toro 3",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "http://31.42.185.216:8000/LIRestream/C18FXWEJBF/126511"
+},
+{
+"name": "Torolé TV FHD",
+"image": "https://i.postimg.cc/W32fCbVS/Imagen-Web-P.webp",
+"url": "http://31.42.185.216:8000/LIRestream/C18FXWEJBF/145484",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Mundo Toro HD (Acestream)",
+"image": "https://i.postimg.cc/nLD6SgZG/mundotoro-logo.webp",
+"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef",
+"userAgent":"PlusMediaPlayer/0.0.9"
+},
+{
+"name": "Mundo Toro (Acestream)",
+"info": "",
+"image": "https://i.postimg.cc/nLD6SgZG/mundotoro-logo.webp",
+"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef"
+},
+{
+"name": "One toro (Acestream)",
+"info": "",
+"image": "https://i.postimg.cc/gkDDXLHF/Toros-movistar.webp",
+"url": "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef"
+}]
 		}]
 }
 
