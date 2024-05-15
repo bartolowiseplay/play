@@ -24,9 +24,39 @@
          "url" : "https://media1.ultrik.com/live/torole1.m3u8",
 			 "userAgent":""  
 			}, {
+			"name": "Torolé 2",
+			"image": "https://www.netvoz.eu/wp-content/uploads/2021/11/torole.png",
+         "url" : "http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/3040",
+			 "userAgent":""  
+			}, {
 			"name": "Toros-Telemadrid",
 			"image": "https://www.telemadrid.es/2021/04/14/corporativo/sala-de-prensa/Telemadrid-Corrida-Primavera-Cordobes-Enrique_2331976807_19738941_1300x731.png",
         "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8",
+			"userAgent": "" 
+                        }, {
+			"name": "El Toro TV HD",
+			"image": "https://www.aircom.cat/wp-content/uploads/2021/11/Toro.png",
+        "url": "http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/24154",
+			"userAgent": "" 
+                        }, {
+			"name": "Toros TV SD",
+			"image": "http://swedtv.vip/logos/spain/EU_Espana_Otros/Toros_TV.png",
+        "url": "http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/83",
+			"userAgent": "" 
+                        }, {
+			"name": "Mundotoro FHD",
+			"image": "https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png",
+        "url": "http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/564576",
+			"userAgent": "" 
+                        }, {
+			"name": "Mundotoro HD",
+			"image": "https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png",
+        "url": "http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/557630",
+			"userAgent": "" 
+                        }, {
+			"name": "Mundotoro SD",
+			"image": "https://vecinosmp.org/wp-content/uploads/2015/10/mundotoro.png",
+        "url": "http://158.220.87.177:2095/CmU6erw45zUX/8GRsEUdUkZSX/557629",
 			"userAgent": "" 
                         }]
 		}]
