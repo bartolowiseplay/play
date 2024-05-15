@@ -11,12 +11,22 @@
 		"stations": [{
 			 "name": "Toros 1",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "http://coconut23.chocoplus.xyz:8080/live/HSzWFMSgHbGQ/jpsP8HErkd5Z/12113.ts",
+      "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
                         "userAgent": ""
                                             }, {
 			 "name": "Toros 2",
 			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
-      "url": "https://cajablanca.dedyn.io/mionespt/juanorange/MundotoroTV_HD/HD/index.m3u8",
+      "url": "https://tutlehd4.xyz//online.php?a=56",
+                        "userAgent": ""
+                       }, {
+			 "name": "Toros 3",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://da-d50d12b5.online.meo.pt/wp/cdn-er-vspp-cvl2.online.meo.pt/shls/LIVE$MundotoroTV_HD/index.m3u8/S!d2EGSU9TX0dhEgZU.v...wEWDJ8_/Level(5242880)",
+                        "userAgent": ""
+                       }, {
+			 "name": "Toros 4",
+			"image": "https://i.ibb.co/TMdJZns/1-0-1-749-B-41-C-1-C00000-0-0-0.png",
+      "url": "https://wideiptv.top/OneToro/tracks-v1/index.fmp4.m3u8?token=ea5f75af90f84119caddcf4f7aef1131a87d4a2d-35ed3526f496584c92e26d4e82fa0c4d-1715466741-1715455941",
                         "userAgent": ""
                        }, {
 			"name": "Torolé",
