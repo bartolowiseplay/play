@@ -29,11 +29,6 @@
       "name": "Rakuten TV - HL",
       "image": "https://helmerluzo.github.io/RakutenTV_HL/rakuten.png",
       "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
-    },
-{
-      "name": "TV Rumania",
-      "image": "https://play-lh.googleusercontent.com/8g4spNFkfZNDqHaiiPGWk2o0R086G-OdKCK8YYPEbpB1p2LG3xZxYzeYjTo-syNesmDB",
-      "url": "https://iptv-org.github.io/iptv/countries/ro.m3u"
     },{
 "name": "TV INFANTIL",
 "image": "https://i.blogs.es/dae294/cadenas-20infantiles/1366_2000.jpg",
@@ -111,6 +106,10 @@
 "url": "http://ventdelnord.tv:8080/mola/directe.m3u8",
 "userAgent": "http-reconnect=true"
     }] 
-  }]
+  },{
+      "name": "TV Rumania",
+      "image": "https://play-lh.googleusercontent.com/8g4spNFkfZNDqHaiiPGWk2o0R086G-OdKCK8YYPEbpB1p2LG3xZxYzeYjTo-syNesmDB",
+      "url": "https://iptv-org.github.io/iptv/countries/ro.m3u"
+    }]
 }
   
