@@ -10,25 +10,10 @@
           "url": "https://pastebin.com/raw/cV0QX715",
           "import": true
         },{
-          "name": "El Cano [Acestream] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
-          "import": true
-        },{
-          "name": "El Cano [HTTP] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
-          "import": true
-        },{
-          "name": "🅸🅓🅢 🅰🅲🅴🅢🅣🆁🅔🅐🅼",
+          "name": "AFICIONADOS",
           "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
-          "url": "https://pastebin.com/36jGppfm",
+          "url": "https://raw.githubusercontent.com/ylsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
           "info":"bY. lUCas",
           "import": false
-          },{
-          "name": "MEGA SPORT TV (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport.w3u",
-          "import": true
-        }]
+          }]
 }
