@@ -5,9 +5,9 @@
     "info": "Enlaces de internet",
     "url": "https://bartolo.vercel.app/bartolodep.w3u",
     "groups": [{
-          "name": "CHUKYHOOD | Añadir Lista",
+          "name": "CHUKYHOOD",
           "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-          "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
           "import": true
         },{
           "name": "AFICIONADOS",
