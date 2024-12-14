@@ -5,30 +5,15 @@
     "info": "Enlaces de internet",
     "url": "https://bartolo.vercel.app/bartolodep.w3u",
     "groups": [{
-          "name": "CHUKYHOOD | Añadir Lista",
+          "name": "CHUKYHOOD",
           "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
-          "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
           "import": true
         },{
-          "name": "El Cano [Acestream] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
-          "import": true
-        },{
-          "name": "El Cano [HTTP] | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
-          "import": true
-        },{
-          "name": "🅸🅓🅢 🅰🅲🅴🅢🅣🆁🅔🅐🅼",
+          "name": "AFICIONADOS",
           "image": "https://i.postimg.cc/Wp0X5yWD/logo-acestream-2.png",
-          "url": "https://pastebin.com/36jGppfm",
+          "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
           "info":"bY. lUCas",
           "import": false
-          },{
-          "name": "MEGA SPORT TV (VPN) | Añadir Lista",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://megalistawiseplay.vercel.app/megasport.w3u",
-          "import": true
-        }]
+          }]
 }
